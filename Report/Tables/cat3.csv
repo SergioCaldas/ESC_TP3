@@ -1,0 +1,13 @@
+Execname,PID,UID,GID,Path,Flags,Valor de Retorno
+cat,22187,29231,5000,"/var/ld/ld.config",O_RDONLY,-1
+cat,22187,29231,5000,"/lib/libc.so.1",O_RDONLY,3
+cat,22187,29231,5000,"/usr/lib/locale/en_US.UTF-8/en_US.UTF-8.so.3",O_RDONLY,3
+cat,22187,29231,5000,"/usr/lib/locale/en_US.UTF-8/methods_unicode.so.3",O_RDONLY,3
+nfsmapid,1351,1,12,"/system/volatile/rpc_door/rpc_100172.1",O_RDONLY,-1
+nfsmapid,1351,1,12,"/system/volatile/rpc_door/rpc_100172.1",O_RDONLY,-1
+tee,22188,29231,5000,"/var/ld/ld.config",O_RDONLY,-1
+tee,22188,29231,5000,"/lib/libc.so.1",O_RDONLY,3
+tee,22188,29231,5000,"/usr/lib/locale/en_US.UTF-8/en_US.UTF-8.so.3",O_RDONLY,3
+tee,22188,29231,5000,"/usr/lib/locale/en_US.UTF-8/methods_unicode.so.3",O_RDONLY,3
+tee,22188,29231,5000,"/usr/lib/locale/en_US.UTF-8/LC_MESSAGES/SUNW_OST_OSLIB.mo",O_RDONLY,-1
+nfsmapid,1351,1,12,"/etc/resolv.conf",O_RDONLY,10
