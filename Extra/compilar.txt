@@ -1,0 +1,1 @@
+/usr/gcc/4.8/bin/g++ --std=c++11 -Wall -O2 -fopenmp -o zz ex2_v2.cxx
