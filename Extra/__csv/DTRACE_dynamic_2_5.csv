@@ -1,0 +1,39 @@
+        0:0         TID   1 CPU  25(2) created
+        0:0         TID   1 CPU  25(2) created
+        0:0         TID   1 CPU  25(2) created
+        0:0         TID   1 CPU  25(2) created
+        0:0         TID   1 CPU  25(2) created
+        0:0         TID   1 CPU  25(2) created
+fiosExecucao =2 Intervalo=99
+ tempo -> 194923 usecs
+      199:1465575383199 TID   2  from-CPU 17(1) to-cpu 0(1) CPU migration
+      199:1465575383199 TID   2 CPU   0(1) restarted on the same CPU
+      199:1465575383199 TID   2 sleeping on 'cond var'
+      199:1465575383199 TID   2 CPU   0(1) preempted
+      229:1465575383230 TID   2 CPU   0(1) restarted on the same CPU
+        0:0         TID   2 CPU  17(1) created
+        0:1465575383000 TID   2 sleeping on 'cond var'
+        0:0         TID   2 CPU  17(1) created
+      199:1465575383199 TID   2 sleeping on 'cond var'
+      199:1465575383199 TID   2 CPU  17(1) preempted
+        0:1465575383000 TID   1 sleeping on 'cond var'
+        0:0         TID   1 CPU  25(2) created
+      199:1465575383199 TID   1 sleeping on 'cond var'
+      199:1465575383199 TID   1 CPU  25(2) preempted
+      199:1465575383199 TID   1 CPU  25(2) restarted on the same CPU
+      199:1465575383199 TID   1 sleeping on 'cond var'
+      199:1465575383199 TID   1 CPU  25(2) preempted
+      229:1465575383230 TID   1 CPU  25(2) restarted on the same CPU
+      229:1465575383230 TID   1 sleeping on 'cond var'
+      229:1465575383230 TID   1 CPU  25(2) preempted
+      229:1465575383230 TID   1 CPU  25(2) restarted on the same CPU
+      229:1465575383230 TID   1 sleeping on 'shuttle'
+      229:1465575383230 TID   1 CPU  25(2) preempted
+      229:1465575383230 TID   1 CPU  25(2) restarted on the same CPU
+      229:1465575383230 TID   1 sleeping on 'shuttle'
+      229:1465575383230 TID   1 CPU  25(2) preempted
+      229:1465575383230 TID   1 CPU  25(2) restarted on the same CPU
+      229:1465575383230 TID   1 sleeping on 'cond var'
+      229:1465575383230 TID   1 CPU  25(2) preempted
+      229:1465575383230 TID   1 CPU  25(2) restarted on the same CPU
+

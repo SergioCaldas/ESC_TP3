@@ -1,0 +1,118 @@
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+fiosExecucao =8 Intervalo=99
+ tempo -> 46616.8 usecs
+       10:0         TID   7 CPU   2(1) created
+       10:1465575339570 TID   7 CPU   2(1) restarted on the same CPU
+       10:1465575339570 TID   7 sleeping on 'cond var'
+       10:1465575339570 TID   7 CPU   2(1) preempted
+       10:1465575339570 TID   7 CPU   2(1) restarted on the same CPU
+       39:1465575339599 TID   7 sleeping on 'cond var'
+       39:1465575339599 TID   7 CPU   2(1) preempted
+       49:1465575339609 TID   7 CPU   2(1) restarted on the same CPU
+       49:1465575339609 TID   7 sleeping on 'cond var'
+       49:1465575339609 TID   7 CPU   2(1) preempted
+       59:1465575339619 TID   7 CPU   2(1) restarted on the same CPU
+       10:0         TID   3 CPU   6(1) created
+       10:1465575339570 TID   3 CPU   6(1) restarted on the same CPU
+       10:1465575339570 TID   3 sleeping on 'cond var'
+       10:1465575339570 TID   3 CPU   6(1) preempted
+       10:1465575339570 TID   3 CPU   6(1) restarted on the same CPU
+       39:1465575339599 TID   3 sleeping on 'cond var'
+       39:1465575339599 TID   3 CPU   6(1) preempted
+       49:1465575339609 TID   3 CPU   6(1) restarted on the same CPU
+       49:1465575339609 TID   3 sleeping on 'cond var'
+       49:1465575339609 TID   3 CPU   6(1) preempted
+       59:1465575339619 TID   3 CPU   6(1) restarted on the same CPU
+       10:0         TID   2 CPU   8(2) created
+       10:1465575339570 TID   2 CPU   8(2) restarted on the same CPU
+       10:1465575339570 TID   2 sleeping on 'cond var'
+       10:1465575339570 TID   2 CPU   8(2) preempted
+       10:0         TID   6 CPU   8(2) created
+       10:1465575339570 TID   6 CPU   8(2) restarted on the same CPU
+       10:1465575339570 TID   6 sleeping on 'cond var'
+       10:1465575339570 TID   6 CPU   8(2) preempted
+       10:0         TID   8 CPU   8(2) created
+       10:1465575339570 TID   8 CPU   8(2) restarted on the same CPU
+       10:1465575339570 TID   8 sleeping on 'cond var'
+       10:1465575339570 TID   8 CPU   8(2) preempted
+       10:1465575339570 TID   2 CPU   8(2) restarted on the same CPU
+       49:1465575339609 TID   2 CPU   8(2) preempted
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+       10:1465575339570 TID   1 sleeping on 'cond var'
+       10:1465575339570 TID   1 CPU   9(2) preempted
+       10:1465575339570 TID   1 CPU   9(2) restarted on the same CPU
+       49:1465575339609 TID   1 sleeping on 'cond var'
+       49:1465575339609 TID   1 CPU   9(2) preempted
+       49:1465575339609 TID   1 CPU   9(2) restarted on the same CPU
+       49:1465575339609 TID   1 sleeping on 'cond var'
+       49:1465575339609 TID   1 CPU   9(2) preempted
+       59:1465575339619 TID   1 CPU   9(2) restarted on the same CPU
+       59:1465575339619 TID   1 sleeping on 'cond var'
+       59:1465575339619 TID   1 CPU   9(2) preempted
+       59:1465575339619 TID   1 CPU   9(2) restarted on the same CPU
+       59:1465575339619 TID   1 sleeping on 'shuttle'
+       59:1465575339619 TID   1 CPU   9(2) preempted
+       59:1465575339619 TID   1 CPU   9(2) restarted on the same CPU
+       59:1465575339619 TID   1 sleeping on 'shuttle'
+       59:1465575339619 TID   1 CPU   9(2) preempted
+       59:1465575339619 TID   1 CPU   9(2) restarted on the same CPU
+       59:1465575339619 TID   1 sleeping on 'cond var'
+       59:1465575339619 TID   1 CPU   9(2) preempted
+       59:1465575339619 TID   1 CPU   9(2) restarted on the same CPU
+       59:1465575339619 TID   1 sleeping on 'cond var'
+       59:1465575339619 TID   1 CPU   9(2) preempted
+       59:1465575339619 TID   1 CPU   9(2) restarted on the same CPU
+       10:1465575339570 TID   8  from-CPU 8(2) to-cpu 11(2) CPU migration
+       10:1465575339570 TID   8 CPU  11(2) restarted on the same CPU
+       49:1465575339609 TID   8 sleeping on 'cond var'
+       49:1465575339609 TID   8 CPU  11(2) preempted
+       49:1465575339609 TID   8 CPU  11(2) restarted on the same CPU
+       49:1465575339609 TID   8 sleeping on 'cond var'
+       49:1465575339609 TID   8 CPU  11(2) preempted
+       59:1465575339619 TID   8 CPU  11(2) restarted on the same CPU
+       49:1465575339609 TID   2  from-CPU 8(2) to-cpu 13(2) CPU migration
+       49:1465575339609 TID   2 CPU  13(2) restarted on the same CPU
+       49:1465575339609 TID   2 sleeping on 'cond var'
+       49:1465575339609 TID   2 CPU  13(2) preempted
+       49:1465575339609 TID   2 CPU  13(2) restarted on the same CPU
+       49:1465575339609 TID   2 sleeping on 'cond var'
+       49:1465575339609 TID   2 CPU  13(2) preempted
+       59:1465575339619 TID   2 CPU  13(2) restarted on the same CPU
+       10:0         TID   5 CPU  20(1) created
+       10:1465575339570 TID   5 CPU  20(1) restarted on the same CPU
+       10:1465575339570 TID   5 sleeping on 'cond var'
+       10:1465575339570 TID   5 CPU  20(1) preempted
+       10:1465575339570 TID   5 CPU  20(1) restarted on the same CPU
+       39:1465575339599 TID   5 sleeping on 'cond var'
+       39:1465575339599 TID   5 CPU  20(1) preempted
+       49:1465575339609 TID   5 CPU  20(1) restarted on the same CPU
+       49:1465575339609 TID   5 sleeping on 'cond var'
+       49:1465575339609 TID   5 CPU  20(1) preempted
+       59:1465575339619 TID   5 CPU  20(1) restarted on the same CPU
+       10:1465575339570 TID   6  from-CPU 8(2) to-cpu 24(2) CPU migration
+       10:1465575339570 TID   6 CPU  24(2) restarted on the same CPU
+       49:1465575339609 TID   6 CPU  24(2) preempted
+       49:1465575339609 TID   6  from-CPU 24(2) to-cpu 26(2) CPU migration
+       49:1465575339609 TID   6 CPU  26(2) restarted on the same CPU
+       49:1465575339609 TID   6 sleeping on 'cond var'
+       49:1465575339609 TID   6 CPU  26(2) preempted
+       49:1465575339609 TID   6 CPU  26(2) restarted on the same CPU
+       49:1465575339609 TID   6 sleeping on 'cond var'
+       49:1465575339609 TID   6 CPU  26(2) preempted
+       59:1465575339619 TID   6 CPU  26(2) restarted on the same CPU
+       10:0         TID   4 CPU  31(2) created
+       10:1465575339570 TID   4 CPU  31(2) restarted on the same CPU
+       10:1465575339570 TID   4 sleeping on 'cond var'
+       10:1465575339570 TID   4 CPU  31(2) preempted
+       10:1465575339570 TID   4 CPU  31(2) restarted on the same CPU
+       49:1465575339609 TID   4 sleeping on 'cond var'
+       49:1465575339609 TID   4 CPU  31(2) preempted
+       49:1465575339609 TID   4 CPU  31(2) restarted on the same CPU
+       49:1465575339609 TID   4 sleeping on 'cond var'
+       49:1465575339609 TID   4 CPU  31(2) preempted
+       59:1465575339619 TID   4 CPU  31(2) restarted on the same CPU
+

@@ -1,0 +1,38 @@
+        0:0         TID   1 CPU  26(2) created
+        0:0         TID   1 CPU  26(2) created
+        0:0         TID   1 CPU  26(2) created
+        0:0         TID   1 CPU  26(2) created
+        0:0         TID   1 CPU  26(2) created
+        0:0         TID   1 CPU  26(2) created
+fiosExecucao =2 Intervalo=99
+ tempo -> 42297.4 usecs
+        0:0         TID   2 CPU  17(1) created
+        0:1465575319710 TID   2 sleeping on 'cond var'
+        0:0         TID   2 CPU  17(1) created
+       29:1465575319739 TID   2 sleeping on 'cond var'
+       29:1465575319739 TID   2 CPU  17(1) preempted
+       39:1465575319749 TID   2 CPU  17(1) restarted on the same CPU
+       39:1465575319749 TID   2 sleeping on 'cond var'
+       39:1465575319749 TID   2 CPU  17(1) preempted
+       49:1465575319760 TID   2 CPU  17(1) restarted on the same CPU
+        0:1465575319710 TID   1 sleeping on 'cond var'
+        0:0         TID   1 CPU  26(2) created
+       39:1465575319749 TID   1 sleeping on 'cond var'
+       39:1465575319749 TID   1 CPU  26(2) preempted
+       39:1465575319749 TID   1 CPU  26(2) restarted on the same CPU
+       39:1465575319749 TID   1 sleeping on 'cond var'
+       39:1465575319749 TID   1 CPU  26(2) preempted
+       49:1465575319760 TID   1 CPU  26(2) restarted on the same CPU
+       49:1465575319760 TID   1 sleeping on 'cond var'
+       49:1465575319760 TID   1 CPU  26(2) preempted
+       49:1465575319760 TID   1 CPU  26(2) restarted on the same CPU
+       49:1465575319760 TID   1 sleeping on 'shuttle'
+       49:1465575319760 TID   1 CPU  26(2) preempted
+       49:1465575319760 TID   1 CPU  26(2) restarted on the same CPU
+       49:1465575319760 TID   1 sleeping on 'shuttle'
+       49:1465575319760 TID   1 CPU  26(2) preempted
+       49:1465575319760 TID   1 CPU  26(2) restarted on the same CPU
+       49:1465575319760 TID   1 sleeping on 'cond var'
+       49:1465575319760 TID   1 CPU  26(2) preempted
+       49:1465575319760 TID   1 CPU  26(2) restarted on the same CPU
+

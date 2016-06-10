@@ -1,0 +1,21 @@
+        0:0         TID   1 CPU   3(1) created
+        0:0         TID   1 CPU   3(1) created
+fiosExecucao =1 Intervalo=99
+ tempo -> 34828.8 usecs
+        0:0         TID   1 CPU   3(1) created
+        0:0         TID   1 CPU   3(1) created
+        0:0         TID   1 CPU   3(1) created
+        0:0         TID   1 CPU   3(1) created
+       39:1465575305360 TID   1 sleeping on 'cond var'
+       39:1465575305359 TID   1 CPU   3(1) preempted
+       39:1465575305359 TID   1 CPU   3(1) restarted on the same CPU
+       39:1465575305359 TID   1 sleeping on 'cond var'
+       39:1465575305359 TID   1 CPU   3(1) preempted
+       39:1465575305359 TID   1 CPU   3(1) restarted on the same CPU
+       39:1465575305359 TID   1 sleeping on 'shuttle'
+       39:1465575305359 TID   1 CPU   3(1) preempted
+       39:1465575305359 TID   1 CPU   3(1) restarted on the same CPU
+       39:1465575305359 TID   1 sleeping on 'shuttle'
+       39:1465575305359 TID   1 CPU   3(1) preempted
+       39:1465575305359 TID   1 CPU   3(1) restarted on the same CPU
+

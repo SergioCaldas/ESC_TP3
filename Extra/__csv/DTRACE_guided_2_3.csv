@@ -1,0 +1,38 @@
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+fiosExecucao =2 Intervalo=99
+ tempo -> 40118.6 usecs
+        0:0         TID   2 CPU   6(1) created
+       29:1465575449179 TID   2 sleeping on 'cond var'
+       29:1465575449179 TID   2 CPU   6(1) preempted
+       40:1465575449190 TID   2 CPU   6(1) restarted on the same CPU
+       40:1465575449190 TID   2 sleeping on 'cond var'
+       40:1465575449190 TID   2 CPU   6(1) preempted
+       49:1465575449199 TID   2 CPU   6(1) restarted on the same CPU
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+        0:0         TID   1 CPU   9(2) created
+        0:1465575449150 TID   1 sleeping on 'cond var'
+        0:0         TID   1 CPU   9(2) created
+       40:1465575449190 TID   1 sleeping on 'cond var'
+       40:1465575449190 TID   1 CPU   9(2) preempted
+       40:1465575449190 TID   1 CPU   9(2) restarted on the same CPU
+       40:1465575449190 TID   1 sleeping on 'cond var'
+       40:1465575449190 TID   1 CPU   9(2) preempted
+       49:1465575449199 TID   1 CPU   9(2) restarted on the same CPU
+       49:1465575449199 TID   1 sleeping on 'cond var'
+       49:1465575449199 TID   1 CPU   9(2) preempted
+       49:1465575449199 TID   1 CPU   9(2) restarted on the same CPU
+       49:1465575449199 TID   1 sleeping on 'shuttle'
+       49:1465575449199 TID   1 CPU   9(2) preempted
+       49:1465575449199 TID   1 CPU   9(2) restarted on the same CPU
+       49:1465575449199 TID   1 sleeping on 'shuttle'
+       49:1465575449199 TID   1 CPU   9(2) preempted
+       49:1465575449199 TID   1 CPU   9(2) restarted on the same CPU
+       49:1465575449199 TID   1 sleeping on 'cond var'
+       49:1465575449199 TID   1 CPU   9(2) preempted
+       49:1465575449199 TID   1 CPU   9(2) restarted on the same CPU
+        0:0         TID   2 CPU  23(1) created
+        0:1465575449150 TID   2 sleeping on 'cond var'
+
